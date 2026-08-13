@@ -1,7 +1,3 @@
-Com o código organizado e pronto, criar um `README.md` bem escrito é a "cereja do bolo" para o seu portfólio. Ele é a primeira coisa que um recrutador ou outro desenvolvedor vai ler, então é importante destacar que você construiu a IA do zero usando teoria dos jogos.
-
-Aqui está um modelo profissional e direto ao ponto. Você pode copiar o bloco abaixo e colar no seu arquivo `README.md` (lembre-se de trocar o link do repositório pela sua URL real):
-
 ```markdown
 # Jogo da Velha com IA (Minimax) 🎮🤖
 
