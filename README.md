@@ -31,13 +31,13 @@ Após essa exaustão de possibilidades, ela traz esses resultados para o present
 1. Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/downloads/) instalado na sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/Davift7/Jogo-da-Velha](https://github.com/Davift7/Jogo-da-Velha)
+   git clone https://github.com/Davift7/Jogo-da-Velha
 
    ```
 
 3. Navegue até a pasta do projeto:
 ```bash
-cd NOME_DO_REPOSITORIO
+cd Jogo-da-Velha
 
 ```
 
