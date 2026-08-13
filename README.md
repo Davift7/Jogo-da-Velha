@@ -33,7 +33,7 @@ Após essa exaustão de possibilidades, ela traz esses resultados para o present
    ```bash
    git clone [https://github.com/Davift7/Jogo-da-Velha](https://github.com/Davift7/Jogo-da-Velha)
 
-```
+   ```
 
 3. Navegue até a pasta do projeto:
 ```bash
