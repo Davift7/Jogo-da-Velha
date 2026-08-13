@@ -1,5 +1,5 @@
 
-# Jogo da Velha com IA (Minimax) 🎮🤖
+# Jogo da Velha com IA (Minimax) 🤖
 
 Um clássico Jogo da Velha (Tic-Tac-Toe) desenvolvido em **Java**, rodando diretamente no terminal. O grande diferencial deste projeto é a implementação do algoritmo **Minimax**, que cria uma Inteligência Artificial matematicamente imbatível.
 
