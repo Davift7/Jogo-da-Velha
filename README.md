@@ -1,4 +1,4 @@
-```markdown
+
 # Jogo da Velha com IA (Minimax) 🎮🤖
 
 Um clássico Jogo da Velha (Tic-Tac-Toe) desenvolvido em **Java**, rodando diretamente no terminal. O grande diferencial deste projeto é a implementação do algoritmo **Minimax**, que cria uma Inteligência Artificial matematicamente imbatível.
@@ -64,5 +64,4 @@ java -cp src Main
 * `src/Tabuleiro.java`: Gerencia a matriz 3x3, verificação de vitória/empate e a clonagem de universos.
 * `src/Velha.java`: Entidade que representa cada casa do jogo e a peça que a ocupa.
 
-```
 
